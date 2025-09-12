@@ -1,2 +1,2 @@
 # Benefisocial
-İnsanlığa 
+İnsanların en hayırlısı insanlara faydalı olandır 
