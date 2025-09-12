@@ -1,7 +1,6 @@
 # Benefisocial
 İnsanların en hayırlısı insanlara faydalı olandır 
 
-aww, love it! here’s a full, practical README you can drop at the repo root — first in English, then in Türkçe. it covers the whole flow (Supabase, DB SQL, backend, Flutter, Docker), endpoint map, and common gotchas. copy–paste as README.md.
 
 ⸻
 
