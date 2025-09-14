@@ -1,7 +1,3 @@
-Absolutely, kardeşim! Here’s a **single, comprehensive document** you can keep, share with teammates, or paste into a `docs/README.md`. It covers vision → stack → setup → env → DB → security → API (with examples) → Flutter app → file uploads → metrics/ratings → roadmap → troubleshooting. It reflects everything we’ve built + the decisions we made while debugging.
-
----
-
 # BenefiSocial — Platform & API Documentation (MVP)
 
 ## 0) TL;DR
